@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Fruits
+  m_EditorClassIdentifier: 
+  m_GroupName: Fruits
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 762a6a4a0bf231948be2ec175bb42dd5
+  m_SerializeEntries:
+  - m_GUID: 66b2dcb16851cd54696b74f266a8a087
+    m_Address: Assets/Resources_moved/Images/Fruits
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fruits
+    m_MainAsset: {fileID: 102900000, guid: 66b2dcb16851cd54696b74f266a8a087, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: 66b2dcb16851cd54696b74f266a8a087, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: dba9979834ea0e14e880bb485bc1c60f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 84a24f71a6b2d984eb259ad558315c9e, type: 2}
+    - {fileID: 11400000, guid: b78534c7acb393a40a8f4ffbeb4d6f5b, type: 2}

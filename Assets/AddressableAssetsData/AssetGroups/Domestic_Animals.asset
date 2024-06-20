@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Domestic_Animals
+  m_EditorClassIdentifier: 
+  m_GroupName: Domestic_Animals
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a57c5790fd56e83449a32632e63268dd
+  m_SerializeEntries:
+  - m_GUID: 51a6711cbc37d9b43a35154d82a71632
+    m_Address: Assets/Resources_moved/Images/Domestic_Animals
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Domestic_Animals
+    m_MainAsset: {fileID: 102900000, guid: 51a6711cbc37d9b43a35154d82a71632, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: 51a6711cbc37d9b43a35154d82a71632, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: dba9979834ea0e14e880bb485bc1c60f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2e6457613a429e04589e193059d5b7d2, type: 2}
+    - {fileID: 11400000, guid: b1911fc56f5803246920bddc76cb4a2d, type: 2}

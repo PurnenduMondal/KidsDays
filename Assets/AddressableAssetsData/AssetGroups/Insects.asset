@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Insects
+  m_EditorClassIdentifier: 
+  m_GroupName: Insects
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 63cafe009004de24b8159bfd4a0a05f4
+  m_SerializeEntries:
+  - m_GUID: c54f5fa8033c3b94c9f3629d57c1cff7
+    m_Address: Assets/Resources_moved/Images/Insects
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Insects
+    m_MainAsset: {fileID: 102900000, guid: c54f5fa8033c3b94c9f3629d57c1cff7, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: c54f5fa8033c3b94c9f3629d57c1cff7, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: dba9979834ea0e14e880bb485bc1c60f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 48d771cf7841655409a7666f29f798ca, type: 2}
+    - {fileID: 11400000, guid: 25465b862eaf3e748b96d0b788711c75, type: 2}

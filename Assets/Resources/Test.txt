@@ -1,0 +1,10 @@
+GameObject.Find("Image").transform.position = new Vector3(Screen.width*0.1597222f,Screen.height*0.8984375f,0);
+GameObject.Find("Image (1)").transform.position = new Vector3(Screen.width*0.1597222f,Screen.height*0.7226563f,0);
+GameObject.Find("Image (2)").transform.position = new Vector3(Screen.width*0.1597222f,Screen.height*0.546875f,0);
+GameObject.Find("Image (3)").transform.position = new Vector3(Screen.width*0.1597222f,Screen.height*0.3710938f,0);
+GameObject.Find("Image (4)").transform.position = new Vector3(Screen.width*0.1597222f,Screen.height*0.1953125f,0);
+GameObject.Find("ImageText").transform.position = new Vector3(Screen.width*0.8263889f,Screen.height*0.8984375f,0);
+GameObject.Find("ImageText (1)").transform.position = new Vector3(Screen.width*0.8263889f,Screen.height*0.7226563f,0);
+GameObject.Find("ImageText (2)").transform.position = new Vector3(Screen.width*0.8263889f,Screen.height*0.546875f,0);
+GameObject.Find("ImageText (3)").transform.position = new Vector3(Screen.width*0.8263889f,Screen.height*0.3710938f,0);
+GameObject.Find("ImageText (4)").transform.position = new Vector3(Screen.width*0.8263889f,Screen.height*0.1953125f,0);

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Wild_Animals
+  m_EditorClassIdentifier: 
+  m_GroupName: Wild_Animals
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b8f89c904a007e049864e62c99d87509
+  m_SerializeEntries:
+  - m_GUID: bcefb78a2738c294392341b502ab18ef
+    m_Address: Assets/Resources_moved/Images/Wild_Animals
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Wild_Animals
+    m_MainAsset: {fileID: 102900000, guid: bcefb78a2738c294392341b502ab18ef, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: bcefb78a2738c294392341b502ab18ef, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: dba9979834ea0e14e880bb485bc1c60f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a86d4dc0ffeaa1246ad058f0cda393ba, type: 2}
+    - {fileID: 11400000, guid: 62f8d6a2f30de9c41b7ebb3d61634327, type: 2}

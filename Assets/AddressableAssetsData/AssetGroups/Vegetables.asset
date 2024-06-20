@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Vegetables
+  m_EditorClassIdentifier: 
+  m_GroupName: Vegetables
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f359c743bae34254f8c6221f6e6b0ce3
+  m_SerializeEntries:
+  - m_GUID: c67179c117edc0f439687077b08bd94c
+    m_Address: Assets/Resources_moved/Images/Vegetables
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Vegetables
+    m_MainAsset: {fileID: 102900000, guid: c67179c117edc0f439687077b08bd94c, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: c67179c117edc0f439687077b08bd94c, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: dba9979834ea0e14e880bb485bc1c60f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ffafd24f742e19f46b33cb30e9019f4d, type: 2}
+    - {fileID: 11400000, guid: 0191fe75b6a54a644b3799731fcd127c, type: 2}

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Flowers
+  m_EditorClassIdentifier: 
+  m_GroupName: Flowers
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d8cc915bef29472498a81845c3ab7304
+  m_SerializeEntries:
+  - m_GUID: d1b4941dd6a18764a878d8d1af94c77f
+    m_Address: Assets/Resources_moved/Images/Flowers
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Flowers
+    m_MainAsset: {fileID: 102900000, guid: d1b4941dd6a18764a878d8d1af94c77f, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: d1b4941dd6a18764a878d8d1af94c77f, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: dba9979834ea0e14e880bb485bc1c60f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 06e9f835e9970414cbe13aa1d8f64af3, type: 2}
+    - {fileID: 11400000, guid: 6a9752762b774f44c9a6afd61b0ef8c3, type: 2}
